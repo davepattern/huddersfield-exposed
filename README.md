@@ -1,6 +1,7 @@
 # huddersfield-exposed
 
 Repository for shared content relating to the Huddersfield Exposed local history website.
+
 https://huddersfield.exposed
 
 Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
